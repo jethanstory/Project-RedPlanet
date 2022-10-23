@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ValleyLevel.unity
+    guid: dfb8847b4f32081418921b505339f34b
   m_configObjects: {}
