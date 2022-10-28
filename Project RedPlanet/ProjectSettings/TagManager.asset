@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Fire
   - Enemy
+  - AirlockOutside
+  - AirlockInsideOuterDoor
+  - AirlockInsideInnerDoor
+  - AirlockInside
   layers:
   - Default
   - TransparentFX
